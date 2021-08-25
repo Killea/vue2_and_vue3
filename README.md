@@ -1,4 +1,4 @@
-# test3
+# vue2_and_vue3
 
 ## Project setup
 ```
